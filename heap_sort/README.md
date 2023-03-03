@@ -1,3 +1,7 @@
+## Heap Sort
+
+Implementation of Heap Sort in Ruby.
+
 ## Code:
 
 ```ruby

@@ -1,3 +1,7 @@
+## Fibonacci
+
+Fibonacci number finder that utilizes the concept of Dynamic Programming with Ruby's `Hash` generator syntax.
+
 ## Code:
 
 ```ruby

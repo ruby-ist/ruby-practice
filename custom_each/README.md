@@ -1,3 +1,8 @@
+## Each method:
+
+Implementation of well known `each` method in Array.
+
+
 ## Code:
 
 ```ruby

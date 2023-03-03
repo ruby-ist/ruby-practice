@@ -1,3 +1,7 @@
+## Accumulate Method
+
+Custom implementation of Enumerable module's `inject` method.
+
 ## Code:
 
 ```ruby
